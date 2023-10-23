@@ -3,7 +3,7 @@
 // you can not start with number
 // example :-
 // 1value (invalid)
-// value1 (invalid)
+// value1 (Valid)
 
 var value1 = 10;
 console.log(value1);

@@ -11,9 +11,9 @@ let firstName = "   Devansh   ";
 
 //  to remove spaces we use trim method
 
-// if we use sting like this it wouuld not work as string is immutable
-// firstName.trim(); (it didnit change the existing string it gives us new string) // "devansh"
 // console.log(firstName.length); 13
+// firstName.trim(); (it didnit change the existing string it gives us new string) // "devansh"
+// if we use sting like this it would not work as string is immutable
 
 // we can store this new string in another variable or put this string in same variable  
 // 1

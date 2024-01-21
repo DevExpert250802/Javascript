@@ -35,8 +35,5 @@
 // let oneMoreArray = ["item3", "item4"]
 //  array2 = [...array1, ...oneMoreArray];
 
-// array1.push("item3");
-
-// console.log(array1===array2);//to check whether both array are same or not
 // console.log(array1)
 // console.log(array2)

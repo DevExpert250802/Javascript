@@ -7,6 +7,8 @@
 // what is local execution context ?
 
 
+
+
 // ** 1) Compile / Compilation phase
 
 // (***according to ecmascript--> *early error checking, *determing apporipate scope for variables --> for that parsing  is necessary )

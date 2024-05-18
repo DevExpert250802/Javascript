@@ -41,7 +41,7 @@ console.log(typeof (Object.keys(person))) // to check type (object)
 const val = Array.isArray(Object.keys(person)) // to check it is array or not...
 console.log(val);
 for(let key of Object.keys(person)){
-    console.log(keys); //keys
+    console.log(key); //keys
     console.log(person[key]); //value
 }
 
